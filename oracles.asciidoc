@@ -12,6 +12,7 @@ However, many blockchain applications require access to extrinsic information. T
 * Benchmark reference data: incorporating interest rates into smart financial derivatives
 * Static/pseudo-static data: security identifiers, country codes, currency codes
 * Weather data: insurance premium calculation based on a weather forecast
+* Time and Interval Data: Event triggers grounded in precise SI time measurement
 * Political events: prediction market resolution
 * Sporting events: prediction market resolution and fantasy sports contracts
 * Geo-location data: supply chain tracking  
@@ -252,3 +253,4 @@ https://blog.oraclize.it/on-decentralization-of-blockchain-oracles-94fb78598e79 
 https://www.reddit.com/r/ethereum/comments/73rgzu/is_solving_the_oracle_problem_a_paradox/ +
 https://medium.com/truebit/a-file-system-dilemma-2bd81a2cba25
 https://medium.com/@roman.brodetski/introducing-oracul-decentralized-oracle-data-feed-solution-for-ethereum-5cab1ca8bb64
+https://github.com/Azure/azure-blockchain-projects/blob/master/bletchley/EnterpriseSmartContracts.md
